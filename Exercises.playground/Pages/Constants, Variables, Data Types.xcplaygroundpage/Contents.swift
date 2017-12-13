@@ -35,7 +35,11 @@
  
  */
 // Answer Question 1 below
-
+let firstName = "Kevin"
+let lastName = "Gao"
+var currentGrade = 93
+let novemberReportCard = 92
+print("\(firstName) \(lastName) has the current grade of \(currentGrade)")
 /*:
  ### Question 2
  

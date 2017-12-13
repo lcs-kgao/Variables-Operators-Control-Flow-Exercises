@@ -71,8 +71,7 @@ var favouriteHobby = "Stock market trading"
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
-
-
+print("Constant value doesn't change")
 /*:
  ### Question 5
  
@@ -82,7 +81,7 @@ var favouriteHobby = "Stock market trading"
  
  */
 // Answer Question 5 below
-
+let randomDemand = 1_000_000
 /*:
  ### Question 6
  
@@ -102,7 +101,8 @@ var favouriteHobby = "Stock market trading"
  
  */
 // Answer Question 6 below
-
+var year = 2017
+let
 
 /*:
  ### Question 7

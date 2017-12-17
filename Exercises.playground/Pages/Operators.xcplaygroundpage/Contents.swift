@@ -1,4 +1,4 @@
-//: [Previous](@previous)
+    //: [Previous](@previous)
 /*:
  # Operators
 
@@ -43,7 +43,11 @@
  
  */
 // Answer Question 1 below
-
+    var partTimeJobEarning = 0.0
+    partTimeJobEarning += 0.5 * 22.50
+   
+    
+    
 
 /*:
 ### Question 2
@@ -54,7 +58,7 @@
 
 */
 // Answer Question 2 below
-6 + 4 * 5 - 2
+6 + 4 * (5 - 2)
 
 
 

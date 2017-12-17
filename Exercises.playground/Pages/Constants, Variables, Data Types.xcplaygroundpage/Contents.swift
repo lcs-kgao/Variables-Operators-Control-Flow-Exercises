@@ -102,8 +102,9 @@ let randomDemand = 1_000_000
  */
 // Answer Question 6 below
 var year = 2017
-let
-
+let goal = "The year that I get a 100 on my report card"
+year = goal
+// It is a syntax error because they are not same type of value
 /*:
  ### Question 7
  
@@ -112,9 +113,7 @@ let
  Use multiple `print` statements below to explain.
  */
 // Answer Question 7 below
-
-
-
+print("Because it requires to be cleat about the type of values.")
 
 //: [Next](@next)
 

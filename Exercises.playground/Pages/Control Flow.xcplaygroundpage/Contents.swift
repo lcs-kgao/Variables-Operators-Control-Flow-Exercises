@@ -38,6 +38,9 @@
 var temperature = 0
 
 // Answer Question 1 below
+if temperature == 0 {
+    print("Brr, grab your winter jacket")
+}
 
 
 /*:

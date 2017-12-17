@@ -45,9 +45,15 @@
 // Answer Question 1 below
     var partTimeJobEarning = 0.0
     partTimeJobEarning += 0.5 * 22.50
-   
-    
-    
+      print(partTimeJobEarning)
+    partTimeJobEarning += 20 * 1
+      print(partTimeJobEarning)
+    partTimeJobEarning /= 2
+      print(partTimeJobEarning)
+    partTimeJobEarning += 25 * 4
+      print(partTimeJobEarning)
+    partTimeJobEarning -= 50
+    print(partTimeJobEarning)
 
 /*:
 ### Question 2

@@ -103,7 +103,7 @@ let randomDemand = 1_000_000
 // Answer Question 6 below
 var year = 2017
 let goal = "The year that I get a 100 on my report card"
-year = goal
+//year = goal
 // It is a syntax error because they are not same type of value
 /*:
  ### Question 7

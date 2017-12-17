@@ -100,7 +100,17 @@ let alwaysGetsAttentionBySayingGentsAndLadies = true
 let teachesOutdoorEd = true
 
 // Answer Question 4 below
-
+let Gordon = true
+switch Gordon {
+case hasRedHair && Gordon:
+    print("Must be Gordon!")
+case alwaysGetsAttentionBySayingGentsAndLadies && Gordon:
+    print("Must be Gordon")
+case teachesOutdoorEd && Gordon:
+    print("Must be Gordon")
+default:
+    print("Hmm, need more data to be sure")
+}
 
 /*:
  
@@ -121,6 +131,11 @@ let isComedy = false
 let starsTheRock = true
 
 // Answer Question 5 below
+if isAction || isComedy && starsTheRock {
+    print("Let's watch!")
+}else{
+    print("Sorry, guess we'll have to play Tic-Tac-Tow instead")
+}
 
 
 /*:
@@ -139,6 +154,17 @@ let starsTheRock = true
  */
 
 // Answer Question 6 below
+let finalGrade : Int = 90
+switch finalGrade {
+case 80...:
+    print("You've learned a lot, well done!")
+case 60...79 :
+    print("Hmm, not bad, but could bet")
+case 50...79:
+    print("Should have booked more Grove Times")
+default:
+    print("I literally can't even.")
+}
 
 
 

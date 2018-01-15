@@ -128,10 +128,10 @@ default:
 
 let isAction = true
 let isComedy = false
-let starsTheRock = true
+let starsTheRock = false
 
 // Answer Question 5 below
-if isAction || isComedy && starsTheRock {
+if isAction && starsTheRock || isComedy && starsTheRock {
     print("Let's watch!")
 }else{
     print("Sorry, guess we'll have to play Tic-Tac-Tow instead")
@@ -165,7 +165,6 @@ case 50...79:
 default:
     print("I literally can't even.")
 }
-
 
 
 
